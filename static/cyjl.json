@@ -1,0 +1,81 @@
+{
+  "code": "0000",
+  "msg": "提示：操作成功",
+  "mustShow": 0,
+  "msgTecent": null,
+  "data": {
+    "page": {
+      "pageSize": 5,
+      "pageIndex": 1,
+      "sortField": null,
+      "sortOrder": null,
+      "totalCount": 242,
+      "totalPageCount": 49,
+      "rowStart": 0
+    },
+    "dtoList": [
+      {
+        "orderId": 212770,
+        "userId": 32471254,
+        "nickname": "180****9321",
+        "belong": "昭通",
+        "userIcon": "http://wx.qlogo.cn/mmopen/gxWjG2Xz6KsLGjNE2T6DzJlGdUgkb6zrlMnfNo2iahIoISyJ1yJffrDxPTeibm1sLuibEecMh6IIRLktZTOicdRCZk3FGfkXDpOC/0",
+        "userIp": "183.61.***.71",
+        "buyCount": 1,
+        "bookTime": "2017-03-20 01:47:07.624",
+        "bookDay": "2017-03-20",
+        "bookValue": null
+      },
+      {
+        "orderId": 212765,
+        "userId": 33795914,
+        "nickname": "177****7721",
+        "belong": "百色",
+        "userIcon": "http://filestore.zt.raiyi.com/fs/71634.jpg",
+        "userIp": "180.137.***.188",
+        "buyCount": 1,
+        "bookTime": "2017-03-20 01:31:12.490",
+        "bookDay": "2017-03-20",
+        "bookValue": null
+      },
+      {
+        "orderId": 212756,
+        "userId": 28972105,
+        "nickname": "189****5671",
+        "belong": "库尔勒",
+        "userIcon": "http://filestore.zt.raiyi.com/fs/icon/39386.png",
+        "userIp": "112.17.***.85",
+        "buyCount": 1,
+        "bookTime": "2017-03-20 00:57:20.700",
+        "bookDay": "2017-03-20",
+        "bookValue": null
+      },
+      {
+        "orderId": 212748,
+        "userId": 33245858,
+        "nickname": "187****7507",
+        "belong": "南京",
+        "userIcon": "http://filestore.zt.raiyi.com/fs/icon/39380.png",
+        "userIp": "117.136.***.141",
+        "buyCount": 2,
+        "bookTime": "2017-03-20 00:05:41.935",
+        "bookDay": "2017-03-20",
+        "bookValue": null
+      },
+      {
+        "orderId": 212747,
+        "userId": 32705557,
+        "nickname": "159****9491",
+        "belong": "东莞",
+        "userIcon": "http://wx.qlogo.cn/mmopen/6bp4Bt2yV0q97N8GtnvGa5sQChccxLowqY9AJkCV13UbiawWC1S0CjLLPfZxtSLUx6w5dqQZO2FTNYysN7S3aJo7uEmUzUPLf/0",
+        "userIp": "183.61.***.190",
+        "buyCount": 1,
+        "bookTime": "2017-03-20 00:05:00.860",
+        "bookDay": "2017-03-20",
+        "bookValue": null
+      }
+    ]
+  },
+  "time": 0,
+  "success": true
+}
